@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/sprint1-360PanImage.unity
+  isLoaded: 1
+  isActive: 1
